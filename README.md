@@ -17,9 +17,10 @@ Sistema web desenvolvido em **Python** e **Django** para organização pessoal d
 ## ⚙️ Como rodar o projeto localmente
 
 1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Jhon87/my_job_tracker.git](https://github.com/Jhon87/my_job_tracker.git)
-   ```
+```bash
+git clone [https://github.com/Jhon87/my_job_tracker.git](https://github.com/Jhon87/my_job_tracker.git)
+```
+   
 
 2. Crie e ative o ambiente virtual
 ```bash
