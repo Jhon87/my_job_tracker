@@ -19,21 +19,23 @@ Sistema web desenvolvido em **Python** e **Django** para organização pessoal d
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/Jhon87/my_job_tracker.git](https://github.com/Jhon87/my_job_tracker.git)
+   ```
 
 2. Crie e ative o ambiente virtual
-
+```bash
 python -m venv venv
 source venv/bin/activate  # No Linux/Mac
 # venv\Scripts\activate   # No Windows
-
+```
 3. Instale as dependências:
-
+```bash
 pip install django
-
+```
 4. Execute as migrações e rode o servidor:
-
+```bash
 python manage.py migrate
 python manage.py runserver
+```
 
 5. Acesse em: http://127.0.0.1:8000
 
