@@ -38,4 +38,4 @@ python manage.py runserver
 5. Acesse em: http://127.0.0.1:8000
 
 
-Desenvolvido por <b>Jonathan Carneiro<b> como parte do portfólio de desenvolvimento Full Stack.
+Desenvolvido por **Jonathan Carneiro** como parte do portfólio de desenvolvimento Full Stack.
