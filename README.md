@@ -26,7 +26,7 @@ git clone [https://github.com/Jhon87/my_job_tracker.git](https://github.com/Jhon
 ```bash
 python -m venv venv
 source venv/bin/activate  # No Linux/Mac
-# venv\Scripts\activate   # No Windows
+venv\Scripts\activate   # No Windows
 ```
 3. Instale as dependências:
 ```bash
